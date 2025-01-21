@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .bg-primary {
+        background-color: rgb(234, 29, 146);
+    }
+}
